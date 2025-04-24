@@ -34,7 +34,7 @@ This repo is **for demonstration purposes only**. It’s a stripped-down snapsho
 │   ├── settings.py       
 │   └── cvxpy_wrapper.py              
 │
-├── regimes                          # Proprietary (backend code not included)
+├── regimes                          # Proprietary (backend code not included, more on https://github.com/andreab0/demo-tsrd)
 │   ├── helpers
 │   │   └── windowing.py             
 │   └── utils.py                     
@@ -60,9 +60,10 @@ This repo is **for demonstration purposes only**. It’s a stripped-down snapsho
    - This is only a **demo**—actual advanced constraints or solvers are omitted or stubbed.
 
 3. **Regime Detection**  
-   Illustrates clustering-based regime identification using placeholders for Earth Mover’s Distance (EMD) and K-means.  
+   Illustrates clustering-based regime identification using placeholders for Earth Mover’s Distance (EMD) and K-means. </br>
+   An additional demo-repo with a collection of sophisticated regime detection models is available [here](https://github.com/andreab0/demo-tsrd) . Please [message me](mailto:a.c.bordoni@gmail.com) for access. 
    - For background, see [Earth Mover's Distance](https://en.wikipedia.org/wiki/Earth_mover%27s_distance) and [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering). </br>
-   More literature on the subject can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4758243).
+   More literature on the subject can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4758243). 
 
 4. **Signals**  
    A toy momentum signal generator (`momentum.py`).
