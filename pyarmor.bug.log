@@ -1,0 +1,12 @@
+[BUG]: no registration code found in C:/Users/andrea.bordoni/Documents/pyarmor-regcode-7513.txt
+
+## Command Line
+C:\Users\andrea.bordoni\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pyarmor\cli\__main__.py reg -p non-profits C:/Users/andrea.bordoni/Documents/pyarmor-regcode-7513.txt
+
+## Environments
+Python 3.10.11
+Pyarmor 9.1.6 (trial), 000000, non-profits
+Platform windows.x86_64
+Native windows.amd64
+Home C:\Users\andrea.bordoni\.pyarmor
+
